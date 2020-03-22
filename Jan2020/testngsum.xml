@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<parameter name="a" value="5"/>  
+<parameter name="b" value="3"/>  
+<test name="Sum">   
+  <classes>  
+  <class name= "testNG.Sum"/>  
+  </classes>  
+  </test> <!-- Test -->  
+  <test name="Substract">  
+  <classes>  
+  <class name="testNG.Substract"/>  
+  </classes>  
+  </test>  
+  <test name="Multiply">  
+  <classes>  
+  <class name="testNG.Multiply"/>  
+  
+  
+ </classes>
+</test>
+</suite> <!-- Suite -->

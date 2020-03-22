@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="71" started-at="2020-03-21T13:25:12Z" finished-at="2020-03-21T13:25:12Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="71" started-at="2020-03-21T13:25:12Z" finished-at="2020-03-21T13:25:12Z">
+      <class name="janJenkinsDemo.JanJenkinTc">
+        <test-method status="PASS" signature="jenkinTc01()" name="jenkinTc01" duration-ms="25" started-at="2020-03-21T13:25:12Z" finished-at="2020-03-21T13:25:12Z">
+        </test-method>
+        <test-method status="PASS" signature="jenkinTc02()" name="jenkinTc02" duration-ms="0" started-at="2020-03-21T13:25:12Z" finished-at="2020-03-21T13:25:12Z">
+        </test-method>
+      </class>
+      <class name="janJenkinsDemo.JanJenkinTc2">
+        <test-method status="PASS" signature="jenkinTc01()" name="jenkinTc01" duration-ms="1" started-at="2020-03-21T13:25:12Z" finished-at="2020-03-21T13:25:12Z">
+        </test-method>
+        <test-method status="PASS" signature="jenkinTc02()" name="jenkinTc02" duration-ms="1" started-at="2020-03-21T13:25:12Z" finished-at="2020-03-21T13:25:12Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

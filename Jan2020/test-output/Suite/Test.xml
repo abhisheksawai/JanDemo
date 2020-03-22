@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="LAPTOP-UK7PKGHG" name="janJenkinsDemo.JanJenkinTc" tests="4" failures="0" timestamp="21 Mar 2020 07:55:12 GMT" time="0.071" errors="0">
+  <testcase name="jenkinTc01" time="0.025" classname="janJenkinsDemo.JanJenkinTc"/>
+  <testcase name="jenkinTc02" time="0.0" classname="janJenkinsDemo.JanJenkinTc"/>
+  <testcase name="jenkinTc01" time="0.001" classname="janJenkinsDemo.JanJenkinTc2"/>
+  <testcase name="jenkinTc02" time="0.001" classname="janJenkinsDemo.JanJenkinTc2"/>
+</testsuite>

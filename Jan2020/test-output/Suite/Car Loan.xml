@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="LAPTOP-UK7PKGHG" name="testNG.day3" tests="2" failures="0" timestamp="14 Mar 2020 10:52:48 GMT" time="0.006" errors="0">
+  <testcase name="APILoginCarLoan" time="0.001" classname="testNG.day3"/>
+  <testcase name="WebLoginCarLoan" time="0.001" classname="testNG.day3"/>
+</testsuite>
