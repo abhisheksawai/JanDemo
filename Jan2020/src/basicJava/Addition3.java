@@ -9,7 +9,7 @@ public class Addition3 {
 		int total;		
 		total = num1-num2;	
 		System.out.println(total+ " is the substraction"); 
-
+		System.out.println("addition - basic me java me add kiya");
 	}
 
 }
